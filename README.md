@@ -3,13 +3,14 @@
 
 Why'd I build this?
 
-**I had this weird dream about the push and pull between entropic chaos and order. Thought about it. Developed this visual model.**
+**I had this weird dream about the push and pull between chaos and order, but framed as a binary that equalizes itself when given energy over time. Developed this visual simulation.**
 
 **TL;DR** 
 
-> Order / Chaos exploratory metaphysical environment
-> A rudimentary toy-model exploring how order and chaos collapse under information pressure.  
+> Order devolves into chaos over time, chaos creates emergent structure, noise is fed into the system across 'x' time; both agents try to stabilize the system.
+> This could be used as a fun 'jitter-like' binary number generator, or used as a framework for a simple community game (one player is X, the other is Y, across a Z axis) .  
 > Simulates entropy stabilization as binary state progression.
+
 A programmable entropy surface built to test the application of recursive collapse on systems.
 
 This system simulates a deterministic loop influenced by non-linear entropy fluctuations.  
