@@ -1,4 +1,4 @@
-# zk-chaos-vm / 
+# binary chaos/order entropic collapse visualization (no deadass) / 
 
 
 Why'd I build this?
@@ -104,7 +104,7 @@ Eventually, this system can serve as:
 ---
 
 Operated by [`0north.eth`](https://github.com/0north-eth)  
-Entropy-injected runtime | zk-styled loop | proof-of-chaos surface  
+Entropy-injected runtime | i work in real zk-systems | systems visualizations 
 
   
 **ZERO NORTH** ⦿ **ZERO NORTH**
