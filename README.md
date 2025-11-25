@@ -1,5 +1,10 @@
 # zk-chaos-vm / 
 
+
+Why'd I build this?
+
+**I had this weird dream about the push and pull between entropic chaos and order. Thought about it. Developed this visual model.**
+
 **TL;DR** 
 
 > Order / Chaos exploratory metaphysical environment
@@ -8,7 +13,8 @@
 A programmable entropy surface built to test the application of recursive collapse on systems.
 
 This system simulates a deterministic loop influenced by non-linear entropy fluctuations.  
-Each frame executes as a pseudo-ZX gate through a physics-stabilized interface.
+
+
 
 
 ### ⌁ System Visuals
@@ -64,23 +70,24 @@ This toy system treats **chaos and order as binary runtime states**.
 - Order emerges as **low-entropy pockets** attempting to stabilize information.
 - This model runs a visual loop where **entropy is injected** and the system tries, and fails, to contain it.
 
-It is not designed to succeed.  
-It is designed to **mirror the core truth of computation itself**:  
+It's not designed to succeed persay, more as just a systems visualization of something theoretical.  
 > Everything starts as noise.
+> Everything seeks order or devolves into chaos.
+> That can be mapped onto a binary
   
-This is a **live visual runtime map** used to explore entropy becomes meaning.
+This is a **live visual runtime map** used to explore the push/pull between entropy and meaning.
 
 Eventually, this system can serve as:
-- A compression model for zk runtime environments
-- A generative map for entropic cipher logic
-- A signal layer for zero-knowledge systems that reject consensus, but accept collapse
+- A compression model for unusual runtime environments
+- A generative map for entropic cipher logic (this is a really cool idea, bascially a special number generator)
+> The VM's recursive collapse can serve as bit-mapping for entropic systems
 
 ---
 
 ---
 ### ⌁ OBSERVE
 
-- ZX-kernel interface  
+- Kernel interface  
 - Layer-zero execution path  
 - Instability encoded into state progression  
 - Graphical proof of order | decay symmetry  
@@ -92,7 +99,6 @@ Eventually, this system can serve as:
 
 > `ψ`  
 > The system leaks state.  
-> The VM's recursive collapse can serve as bit-mapping for entropic systems.
 
 
 ---
